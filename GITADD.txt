@@ -1,1 +1,2 @@
 hello good morning, This is my first textfile 
+And i am changing this to learn commands
